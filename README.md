@@ -1,7 +1,7 @@
 # Pyject-Beta
 **This is simple beta release of python project "PYJECT", which helps user to use different tools inside terminal.**
 
-[![Author](https://img.shields.io/badge/Author-HTR--TECH-blue)](https://github.com/notsopreety)
+[![Author](https://img.shields.io/badge/Author-SAMIR-blue)](https://github.com/notsopreety)
 [![Language](https://img.shields.io/badge/Written%20in-python-blue)](#)
 
 ### Supported Language:
